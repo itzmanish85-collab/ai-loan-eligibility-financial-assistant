@@ -1,0 +1,9 @@
+product_name,loan_type,min_income,min_credit_score,max_amount,interest_rate
+Quick Personal Loan,Personal Loan,25000,700,500000,12.5
+Smart Personal Loan,Personal Loan,35000,720,1000000,11.5
+Flexi Personal Loan,Personal Loan,50000,750,1500000,10.5
+Starter Education Loan,Education Loan,20000,650,800000,9.5
+Career Education Loan,Education Loan,30000,680,1200000,9.0
+Emergency Medical Loan,Medical Loan,20000,650,500000,10.0
+Home Improvement Loan,Home Improvement,40000,700,1000000,9.75
+Premium Personal Loan,Personal Loan,75000,780,2500000,9.5
